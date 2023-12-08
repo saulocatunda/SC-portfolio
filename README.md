@@ -1,2 +1,2 @@
-# SC-portfolio
-My own portifolio (Saulo Catunda
+# Saulo Catunda-portfolio
+My own portifolio (Saulo Catunda)
