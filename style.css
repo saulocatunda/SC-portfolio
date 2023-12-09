@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --background-dark-color: rgba(32, 32, 32, 0.967);
+  --background-light-color: #f6f6f6;
+}
+
+body {
+  font-size: 1.6rem;
+  background-color: var(--background-dark-color);
+  color: aliceblue;
+}
