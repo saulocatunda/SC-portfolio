@@ -6,7 +6,7 @@
 
 :root {
   font-size: 62.5%;
-  --background-dark-color: rgba(17, 17, 17, 0.967);
+  --background-dark-color: rgba(16, 16, 16, 0.967);
   --background-light-color: #f6f6f6;
   --orange-color: #a14600;
   --gray-color: #4e4e4e;
@@ -82,6 +82,10 @@ nav {
 .home h1,
 .home p {
   line-height: 5rem;
+}
+
+.mouse svg {
+  width: 4rem;
 }
 
 footer {
